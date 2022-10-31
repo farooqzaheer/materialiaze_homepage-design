@@ -1,2 +1,2 @@
-# materialiaze_homepage-design
-Home page design like ebay home page for desktop and andorid phone
+project like shoping in materialize
+we designed web pages like shoping electronic pages
